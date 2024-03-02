@@ -37,7 +37,7 @@ A Python tool that automatically creates and optimizes machine learning pipeline
                       'joblib>=1.1.1',
                       'xgboost>=1.7.0',
                       'matplotlib>=3.6.2',
-                      'traitlets>=5.8.0',
+                    
                       'lightgbm>=3.3.3',
                       'optuna>=3.0.5',
                       'baikal>=0.4.2',
